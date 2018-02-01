@@ -1,0 +1,133 @@
+
+###########################################
+#     CONFIG FILE FOR MEAL PLANNING       #
+###########################################
+
+
+###### Week template for main meals (lunch, dinner) #######
+
+# You can modify these categories as you like, as long as you add meals for them
+# in the sections below
+
+Template:
+
+        0: # Monday
+                - Legumes
+                - Meat
+        1: # Tuesday
+                - Pasta
+                - Veggies
+        2: # Wednesday
+                - Rice
+                - Meat
+        3: # Thursday
+                - Legumes
+                - Fish
+        4: # Friday
+                - Rice
+                - Meat
+        5: # Saturday
+                - Fish
+                - Eggs
+        6: # Sunday
+                - Pasta
+                - Veggies
+
+
+###### Meals according to category ######
+
+# Replace the sample meals and add as many as you wish
+
+All year:
+        Legumes:
+                - All year meal with legumes 1
+                - All year meal with legumes 2
+        Meat:
+                - All year meal with meat 1
+                - All year meal with meat 2
+                - All year meal with meat 3
+                - All year meal with meat 4
+
+        Pasta:
+                - All year meal with pasta 1
+                - All year meal with pasta 2
+                - All year meal with pasta 3
+        Veggies:
+                - All year meal with veggies 1
+                - All year meal with veggies 2
+                - All year meal with veggies 3
+                - All year meal with veggies 4
+                - All year meal with veggies 5
+        Fish:
+                - All year meal with fish 1
+                - All year meal with fish 2
+                - All year meal with fish 3
+                - All year meal with fish 4
+                - All year meal with fish 5
+                - All year meal with fish 6
+        Rice:
+                - All year meal with rice 1
+                - All year meal with rice 2
+        Eggs:
+                - All year meal with eggs 1
+                - All year meal with eggs 2
+        Breakfast:
+                - All year breakfast 1
+                - All year breakfast 2
+                - All year breakfast 3
+                - All year breakfast 4
+                - All year breakfast 5
+        Snacks:
+                - All year snack 1
+                - All year snack 2
+                - All year snack 3
+                - All year snack 4
+                - All year snack 5
+
+
+### Seasonal meals ####
+
+# Replace the sample meals and add as many as you wish
+
+Winter:
+        Legumes:
+
+                - Winter meal with legumes 1
+                - Winter meal with legumes 2
+                - Winter meal with legumes 3
+                - Winter meal with legumes 4
+                - Winter meal with legumes 5
+        Meat:
+
+        Pasta:
+                - Winter meal with pasta 1
+        Veggies:
+                - Winter meal with veggies 1
+                - Winter meal with veggies 2
+        Fish:
+                - Winter meal with fish 1
+        Rice:
+                - Winter meal with rice 1
+        Breakfast:
+
+        Snacks:
+
+Summer:
+        Legumes:
+
+        Meat:
+
+        Pasta:
+
+        Veggies:
+                - Summer meal with veggies 1
+
+        Fish:
+
+        Rice:
+
+        Eggs:
+
+        Breakfast:
+
+        Snacks:
